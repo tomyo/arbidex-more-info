@@ -1,13 +1,13 @@
 # Arbidex-show-more-info
 Bookmarlet to show/hide totals and percentages for each week for the arbitrage, in arbidex account balances section.
 
-## What it does?
+## What it does
 Basicaly this adds a extra column in the `Arbitrage History table`, showing the totals of each week, and the % of increment.
 When executed again, it should delete all added information, and go back to normal state.
 
 ![New column after running script](https://tomyo.github.io/arbidex-show-more-info/ABX_arbitrage_extra_column.png)
 
-## How?
+## How it's done
 This is done backtracking from the current balance, substracting the profits each week, calculating each previous total and percentage.
 
 ## Why?
