@@ -18,7 +18,7 @@ This is done backtracking from the current balance, substracting the profits eac
 ## How to use
 There are three ways to use this:
 
-1. go [here](https://tomyo.github.io/arbidex-show-more-info/) and bookmark the link. or, 
+1. Go [here](https://tomyo.github.io/arbidex-show-more-info/) and bookmark the link. or, 
 2. Create a bookmark, pasting the link content in the `location` field:
 ```js
 javascript:(function(){let newScript = document.createElement('script');newScript.src = 'https://tomyo.github.io/arbidex-show-more-info/arbidex-more-info.js';document.body.appendChild(newScript);})();)
