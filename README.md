@@ -1,5 +1,5 @@
 # Arbidex-show-more-info
-Bookmarlet to show/hide totals and percentages for each week for the arbitrage, in arbidex account balances section.
+Bookmarklet to show/hide totals and percentages for each week for the arbitrage, in arbidex account balances section.
 
 ## What it does
 Basicaly this adds a extra column in the `Arbitrage History table`, showing the totals of each week, and the % of increment.
