@@ -1,4 +1,4 @@
-function showHidMoreInfo() {
+function showHideMoreInfo() {
   if (typeof window.ABXnodesAdded !== 'undefined') {
     // If script was executed, clean previous work
     window.ABXnodesAdded.forEach(node => node.remove());
@@ -74,4 +74,4 @@ function showHidMoreInfo() {
     }
   }
 }
-showHidMoreInfo();
+showHideMoreInfo();
